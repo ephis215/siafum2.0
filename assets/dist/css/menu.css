@@ -1,0 +1,11 @@
+/* cambiar tipo de letra */
+nav.navbar ul.navbar-nav li {
+    font-family: 'Raleway', sans-serif;
+    
+}
+ 
+/* cambiar el color de fondo a la barra */
+nav.navbar {
+    background-color: blue;
+}
+

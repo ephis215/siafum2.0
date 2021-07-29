@@ -1,0 +1,72 @@
+/* Body ---------------------------------------------*/
+body {
+}
+ 
+
+/* etiquetas principales ----------------------------- */
+h1, h2, h3, h4, h5, h6{
+    color:#87CEEB;
+}
+a{
+    color:#0069c0;
+}
+
+
+
+
+a:hover{
+    color:#002171;
+}
+
+.btn-primary {
+    background-color:#0069c0;
+    border: 0ch;
+}
+.btn-primary:hover{
+    background-color:#002171;
+    border: 0ch;
+}
+
+/* head -------------------------------------------- */
+
+/* About Section  ---------------------------------- */
+.jumbotron {
+    background-color:#0069c0;
+    color: hsl(0, 0%, 100%);
+}
+.jumbotron h1, .jumbotron h2, .jumbotron h3{
+    color: hsl(0, 0%, 100%);
+}
+
+.about img{
+    width: 60%;
+}
+
+/* Metodologia Section ----------------------------- */
+
+/* Recursos Section -------------------------------- */
+
+/* Footer ------------------------------------------ */
+#footer {
+     background-color:blue;
+    padding: 30px 30px 30px 30px;
+   
+    color: blue;
+}
+#footer h3,#footer h4{
+    color: white;
+}
+#body h2{
+    color: white;
+}
+
+
+
+
+
+
+
+
+/*.table-striped thead{
+    background-color:#ffa300;
+}*/
